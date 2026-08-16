@@ -28,8 +28,8 @@ jobs:
 
     runs-on:
       - self-hosted
-      - linux
-      - terraform
+      - Windows
+      - X64
 
     steps:
 
